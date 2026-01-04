@@ -1,16 +1,34 @@
-<h1 align="center">Hi 👋,we're Miras</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirasholding1011-ai&label=Profile%20views&color=0e75b6&style=flat" alt="mirasholding1011-ai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirasholding1011-ai" alt="mirasholding1011-ai" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mirasdevs?igsh=dnpka3i5zwo4z2ex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirasdevs?igsh=dnpka3i5zwo4z2ex" height="30" width="40" /></a>
+  <img src="https://mirasholding.com/wp-content/uploads/2025/03/cover.jpg" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mirasholding1011-ai&label=Profile%20views&color=0e75b6&style=flat" alt="mirasholding1011-ai" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirasholding1011-ai&show_icons=true&locale=en&layout=compact" alt="mirasholding1011-ai" /></p>
+## ✨ About Us
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirasholding1011-ai&show_icons=true&locale=en" alt="mirasholding1011-ai" /></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&color=FFFFFF&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Miras+Holding" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&color=000000&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Miras+Holding" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=600&color=000000&center=true&vCenter=true&width=1200&height=80&lines=Welcome+to+our+GitHub+—+We+are+the+Development+Team+at+Mirath+Holding" />
+  </picture>
+</p>
+
+## 🌐 Socials
+
+<h3 align="left">Connect with us:</h3>
+<p align="left">
+  <a href="https://instagram.com/mirasdevs" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirasdevs" height="30" width="40" />
+  </a>
+</p>
+
+## 🛠 Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,python,git,ts,js,nodejs,express,postgres,docker,vercel)
+
+## 💬 Daily Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
